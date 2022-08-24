@@ -13,7 +13,7 @@ import database as db
 from PythonFiles.send_message import reply_message
 from functions import set_language_dict, set_default_values_entered_mode
 
-API_TOKEN = '5410734233:AAF7Mpwsm5R-VZ_XenQWwRUbnkrVHsyHVqo'
+API_TOKEN = '5698978667:AAHuEumXYUE6lhHnhpcZHOVW_Ys4Kpnc3qA'
 
 TOKEN = os.getenv('BOT_TOKEN')
 bot = Bot(token=TOKEN)
